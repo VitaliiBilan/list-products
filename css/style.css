@@ -1,0 +1,10 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+tr.gray td {
+    background-color: #f7f7f7; /* rgb(1, 110, 255);*/
+}

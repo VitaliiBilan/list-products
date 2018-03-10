@@ -1,0 +1,1 @@
+a:3:{i:0;a:3:{s:5:"title";s:13:"first product";s:5:"price";s:2:"34";s:11:"description";s:25:"Description first product";}i:1;a:3:{s:5:"title";s:14:"second product";s:5:"price";s:2:"65";s:11:"description";s:26:"Description second product";}i:2;a:3:{s:5:"title";s:13:"third product";s:5:"price";s:3:"474";s:11:"description";s:25:"Description third product";}}
